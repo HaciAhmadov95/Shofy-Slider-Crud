@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shofy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shofy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\category.css",
+      "PackagePath": "staticwebassets\\css\\category.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\conteact.css",
+      "PackagePath": "staticwebassets\\css\\conteact.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\shop.css",
+      "PackagePath": "staticwebassets\\css\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\css\\venobox.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\banner-slider-2.png",
+      "PackagePath": "staticwebassets\\images\\banner-slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-big-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-big-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-big-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-big-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-sidebar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-sidebar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\blog-sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-sidebar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\breadcrumb-bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\breadcrumb-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\category-main-1.jpg",
+      "PackagePath": "staticwebassets\\images\\category-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\check-2.svg",
+      "PackagePath": "staticwebassets\\images\\check-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\check.svg",
+      "PackagePath": "staticwebassets\\images\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\contact-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\contact-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\contact-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\contact-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\contact-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\contact-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\footer-pay.png",
+      "PackagePath": "staticwebassets\\images\\footer-pay.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\gadget-banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gadget-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\gadget-girl.png",
+      "PackagePath": "staticwebassets\\images\\gadget-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_01.png",
+      "PackagePath": "staticwebassets\\images\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_02.png",
+      "PackagePath": "staticwebassets\\images\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_03.png",
+      "PackagePath": "staticwebassets\\images\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_04.png",
+      "PackagePath": "staticwebassets\\images\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_05.png",
+      "PackagePath": "staticwebassets\\images\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_06.png",
+      "PackagePath": "staticwebassets\\images\\logo_06.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_07.png",
+      "PackagePath": "staticwebassets\\images\\logo_07.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\logo_08.png",
+      "PackagePath": "staticwebassets\\images\\logo_08.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\menu-home-1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\menu-home-2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\menu-home-4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-home-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\menu-home-5.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-home-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\menu-product-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-product-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\menu-product-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-product-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\prodcut-1.jpg",
+      "PackagePath": "staticwebassets\\images\\prodcut-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\prodcut-3.jpg",
+      "PackagePath": "staticwebassets\\images\\prodcut-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-17.jpg",
+      "PackagePath": "staticwebassets\\images\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-5-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-cat-1.png",
+      "PackagePath": "staticwebassets\\images\\product-cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-cat-2.png",
+      "PackagePath": "staticwebassets\\images\\product-cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-cat-3.png",
+      "PackagePath": "staticwebassets\\images\\product-cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-cat-4.png",
+      "PackagePath": "staticwebassets\\images\\product-cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-cat-5.png",
+      "PackagePath": "staticwebassets\\images\\product-cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-offer-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-offer-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-offer-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-offer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-sm-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-sm-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\product-sm-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\shop-sm-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\shop-sm-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\shop-sm-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\shop-sm-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop-sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\signature.png",
+      "PackagePath": "staticwebassets\\images\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\slider-img-1.png",
+      "PackagePath": "staticwebassets\\images\\slider-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\subscribe-shape-1.png",
+      "PackagePath": "staticwebassets\\images\\subscribe-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\subscribe-shape-4.png",
+      "PackagePath": "staticwebassets\\images\\subscribe-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\images\\user-11.jpg",
+      "PackagePath": "staticwebassets\\images\\user-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\blog.js",
+      "PackagePath": "staticwebassets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\categroy.js",
+      "PackagePath": "staticwebassets\\js\\categroy.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\contract.js",
+      "PackagePath": "staticwebassets\\js\\contract.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\shop.js",
+      "PackagePath": "staticwebassets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER PREDATOR\\OneDrive\\Desktop\\Shofy\\Shofy\\Shofy\\wwwroot\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\js\\venobox.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shofy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shofy.props",
+      "PackagePath": "build\\Shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shofy.props",
+      "PackagePath": "buildMultiTargeting\\Shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shofy.props",
+      "PackagePath": "buildTransitive\\Shofy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
